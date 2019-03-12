@@ -31,3 +31,4 @@ future: true
 
 permalink: /event/:title.html
 
+disqus-shortname:phj76
